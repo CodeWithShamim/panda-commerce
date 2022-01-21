@@ -1,0 +1,25 @@
+.slider-btn {
+  background-color: #ff589b !important;
+}
+
+.price {
+  color: #ff589b;
+}
+
+.custom-background {
+  background-color: #feeae9;
+  height: calc(100vh - 150px);
+  min-height: 500px;
+}
+
+/* Main start here  */
+
+.bg-custom-1 {
+  background-color: #ff9c35;
+}
+.bg-custom-2 {
+  background-color: #ff589b;
+}
+.bg-custom-3 {
+  background-color: #4289ff;
+}
